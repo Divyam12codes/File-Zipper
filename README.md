@@ -22,13 +22,3 @@ This is a Java-based file compression and decompression tool using **Huffman Cod
    - Reads encoded file header to rebuild the Huffman Tree.
    - Decodes the binary content to retrieve original data.
 
-## 🖥️ Screenshots
-
-> Add screenshots here (GUI file chooser, file stats, etc.)
-
-## 🚀 How to Run
-
-### 👉 Compile the Java files
-
-```bash
-javac huffman.java HuffmanGUI.java
